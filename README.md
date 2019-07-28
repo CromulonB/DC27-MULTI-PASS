@@ -3,4 +3,4 @@ The MULTI PASS badge is running the firmware created by [badge.team](https://git
 
 ## Software Issues
 
-We did have some capacitive touch issues with the boards from the fab. With fab delays and limited time tos ship before DefCon we were forced to ship with a firmware that was only partially working. We have released a new firmware above and we appologize for the inconvenience.
+We did have some capacitive touch issues with the boards from the fab. With fab delays and limited time tos ship before DefCon we were forced to ship with a firmware that was not 100%. We have released an updated firmware above and we appologize for the inconvenience.
